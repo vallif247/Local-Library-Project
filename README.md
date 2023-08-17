@@ -4,25 +4,7 @@ Other people are taking care of the logistics and design, but they need you to b
 
 Learning objectives:
 
--Using Visual Studio Code as a text editor
-
--Differentiating between the three most common JavaScript error types
-
--Solving bugs by using error messages
-
--Differentiating between let, const, and var, and using each appropriately
-
--Creating an array from a string based on particular criteria and joining arrays into strings
-
--Writing strings that embed expressions using template literals
-
--Accessing all the values and keys of an object
-
--Using find(), filter(), map(), some(), and every() to solve different problems
-
--Using reduce() to solve different problems
-
--Using sort() to sort arrays in various ways
+Using Visual Studio Code as a text editor, differentiating between the three most common JavaScript error types, differentiating between let, const, and var, and using each appropriately, creating an array from a string based on particular criteria and joining arrays into strings, writing strings that embed expressions using template literals, accessing all the values and keys of an object, using find(), filter(), map(), some(), and every() to solve different problems, using reduce() to solve different problems, and using sort() to sort arrays in various ways.
 
 
 The project doesn't include any single-letter variables.
